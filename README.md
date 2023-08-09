@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://button-component-weld.vercel.app/">
+    <a href="https://input-component-lilac.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/solutions/qDonFHAPhdXebwqY1ZSP">
+    <a href="https://devchallenges.io/solutions/QYR2WpW3VyOcCNFMaMbL">
       Solution
     </a>
     <span> | </span>
@@ -34,7 +34,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/Arufaki/button-component/blob/main/image.png)
+![screenshot]()
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 

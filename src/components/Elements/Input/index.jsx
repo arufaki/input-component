@@ -1,6 +1,6 @@
 import headerStyle from "../../../utils/styles";
-import Input from "./Input";
 import Label from "./Label";
+import Input from "./Input";
 
 function Inputs({
   id,
