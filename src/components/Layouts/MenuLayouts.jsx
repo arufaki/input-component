@@ -1,6 +1,3 @@
-import Footer from "../Fragments/Footer";
-import Navbar from "../Fragments/Navbar";
-
 function MenuLayouts({ children }) {
   return (
     <>
