@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&family=Ubuntu+Mono:wght@400;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input-master:nth-child(1),
+.input-master:nth-child(2) {
+  column-gap: 70px;
+}
+
+.input-master:nth-child(4) {
+  column-gap: 98px;
+}
+
+.input-master:nth-child(5) {
+  column-gap: 121px;
+}
+.input-master:nth-child(7) {
+  column-gap: 159px;
+}
