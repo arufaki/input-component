@@ -1,5 +1,5 @@
-import Inputs from "../Elements/Input";
 import inputConfig from "../../utils/inputConfig";
+import Inputs from "../Elements/Input";
 
 function InputComponent() {
   return (

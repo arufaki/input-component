@@ -1,6 +1,6 @@
 import headerStyle from "../../../utils/styles";
 
-function Input({ starticon, placeholder, color, size, rows, ...props }) {
+function Input({ placeholder, color, size, rows, ...props }) {
   const { inputStyle } = headerStyle;
   return (
     <>
