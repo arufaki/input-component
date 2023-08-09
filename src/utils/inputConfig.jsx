@@ -1,4 +1,4 @@
-import Label from "../components/Elements/Input/label";
+import Label from "../components/Elements/Input/Label";
 
 const inputConfig = [
   {
