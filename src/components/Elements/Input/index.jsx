@@ -10,6 +10,7 @@ function Inputs({
   size,
   label,
   caption,
+  labeltxt,
   widthFull,
   rows,
   ...props
@@ -19,7 +20,7 @@ function Inputs({
   return (
     <div className={parentInput({ widthFull })}>
       <Heading text={text} />
-      <Label htmlFor={id} label={label} />
+      <Label htmlFor={id} label={label} labeltxt={labeltxt} />
       <Input
         id={id}
         placeholder={placeholder ? placeholder : "Placeholder"}
