@@ -10,7 +10,6 @@ function Inputs({
   size,
   label,
   caption,
-  labeltxt,
   widthFull,
   rows,
   ...props
