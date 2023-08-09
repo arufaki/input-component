@@ -6,7 +6,6 @@ import InputPage from "./pages/InputPage.jsx";
 import ErrorPage from "./components/Fragments/ErrorPage";
 import ComingSoon from "./components/Fragments/ComingSoon";
 import Root from "./components/Fragments/Root";
-import Home from "./components/Fragments/Home";
 
 const paths = ["colors", "typography", "spaces", "buttons", "inputs", "grid"];
 
